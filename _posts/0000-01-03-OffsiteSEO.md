@@ -7,5 +7,3 @@ SEO also involves offsite strategies
 * Backlinks from related websites
 * Content that attracts links from other websites
 * Link bait or Click bait
----
-Use the right arrow to proceed
