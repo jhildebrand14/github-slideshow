@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Search Engine Optimization"
+title: "SEO"
 ---
 * Design for relevant and popular content
 * Optimize content
