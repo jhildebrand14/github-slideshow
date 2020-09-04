@@ -2,7 +2,7 @@
 layout: slide
 title: "Offsite SEO"
 ---
-text-align left: SEO also involves offsite strategies
+text-align left; SEO also involves offsite strategies
 * Number of backlinks to relevant websites
 * Backlinks from related websites
 * Content that attracts links from other websites
